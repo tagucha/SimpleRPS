@@ -1,0 +1,7 @@
+name: SimpleRPS
+version: 1.0.0
+main: tgcdev.sprs.PluginMain
+command:
+  playRPS:
+    usage: /playRPS <player>
+    description: You can play rock-paper-scissors with another player.
